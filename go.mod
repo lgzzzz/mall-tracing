@@ -1,4 +1,4 @@
-module github.com/lgzzz/mall-tracing
+module github.com/lgzzzz/mall-tracing
 
 go 1.25.0
 
